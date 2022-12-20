@@ -1,0 +1,33 @@
+Ships.png
+size: 128, 832
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Broadside Starcruiser
+  rotate: false
+  xy: 0, 0
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+Heavy Weapons Starcruise
+  rotate: false
+  xy: 0, 256
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+Mrk 1 Attack Drone
+  rotate: false
+  xy: 0, 512
+  size: 32, 64
+  orig: 32, 64
+  offset: 0, 0
+  index: -1
+Support StarCruiser
+  rotate: false
+  xy: 0, 576
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1

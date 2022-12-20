@@ -1,0 +1,7 @@
+{
+	"textures": [{
+			"key": "SHIPS",
+			"path": "textureatlas/ships.atlas"
+		}
+	]
+}

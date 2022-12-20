@@ -1,0 +1,37 @@
+{
+	"key": "BROADSIDE STAR CRUISER VC",
+	"PLAYERMODEL": {
+		"component": "PLAMERMODEL",
+		"type": "Broadside Star Cruiser",
+		"class": "Vector class"
+	},
+	"TEXTURE": {
+		"component": "TEXTURE",
+		"atlas": "SHIPS"
+		"texture": "Broadside Starcruiser"
+	},
+	"MOVEMENTSTATS": {
+		"baseRotationSpeed" : 0.0,
+        "baseVelX" : 0.0,
+        "baseVelY" : 0.0,
+        "rotationSpeed" : 1.0,
+        "velX" : 1.0,
+        "velY" : 1.0,
+	},
+	"HARDPOINTS": [{
+			"component": "HARDPOINT",
+			"description": "Left broadside ",
+			"x": "10",
+			"y": "5",
+			"emplacement_type": "turret"
+		},
+		{
+			"component": "HARDPOINT",
+			"description": "Right broadside ",
+			"x": "20",
+			"y": "5",
+			"emplacement_type": "turret"
+		}
+
+	]
+}
